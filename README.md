@@ -12,11 +12,8 @@ Esse projeto foi desenvolvido como prática de programação e automação.
 🚀 Tecnologias utilizadas
 
 Python
-
 PyAutoGUI
-
 VS Code
-
 Git
 
 💡 Funcionalidades
